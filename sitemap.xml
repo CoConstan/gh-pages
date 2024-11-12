@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://squidinfog.github.io/gh-pages/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://squidinfog.github.io/gh-pages/</loc>
+</url>
+<url>
+<loc>https://squidinfog.github.io/gh-pages/data-analysis.html</loc>
+<lastmod>2024-11-12T22:32:25+01:00</lastmod>
+</url>
+<url>
+<loc>https://squidinfog.github.io/gh-pages/deep-learning-project.html</loc>
+<lastmod>2024-11-12T22:32:47+01:00</lastmod>
+</url>
+<url>
+<loc>https://squidinfog.github.io/gh-pages/operationnal-research.html</loc>
+<lastmod>2024-11-12T19:37:28+01:00</lastmod>
+</url>
+<url>
+<loc>https://squidinfog.github.io/gh-pages/publication.html</loc>
+<lastmod>2024-11-12T18:44:16+01:00</lastmod>
+</url>
+<url>
+<loc>https://squidinfog.github.io/gh-pages/research.html</loc>
+<lastmod>2024-11-12T18:44:07+01:00</lastmod>
+</url>
+<url>
+<loc>https://squidinfog.github.io/gh-pages/resume.html</loc>
+<lastmod>2024-11-12T22:21:45+01:00</lastmod>
+</url>
+<url>
+<loc>https://squidinfog.github.io/gh-pages/teaching.html</loc>
+<lastmod>2024-11-12T19:24:37+01:00</lastmod>
+</url>
+</urlset>
